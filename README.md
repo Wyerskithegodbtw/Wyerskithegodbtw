@@ -1,1 +1,1 @@
->auto_react (ID) (emoji)
+>auto_react (user) (emojis) - Auto Reacts to message
